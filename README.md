@@ -4,6 +4,11 @@ A quick learning spike around App Router and a POC of Code Organization.
 
 <https://www.loom.com/share/041f7211d7c440f78229d86d97e7f041?sid=71dcec3a-bda7-4390-bb20-508d541e5997>
 
+## Use This Template
+
+- Leverage the use this template to get started... OR
+- gloss this readme for how we went about adding the world.
+
 ## Getting Started
 
 ### Update your ENVs for local dev and testing
